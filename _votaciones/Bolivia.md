@@ -1,6 +1,7 @@
 ---
-name: Bolivia
+layout: default
 permalink: /votaciones/:path/
+name: Bolivia
 ---
 <div style="
     padding: 5px 50px;

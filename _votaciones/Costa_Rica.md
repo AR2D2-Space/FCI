@@ -1,6 +1,5 @@
 ---
 name: Costa Rica
-permalink: /votaciones/:path/
 ---
 <div style="
     padding: 5px 50px;
