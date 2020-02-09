@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /
+permalink: /votaciones
 ---
 
 <h1>Latinoamérica 2020
@@ -12,10 +12,9 @@ permalink: /
         <h3 style="display: inline-block">
             {{ page.name }}
         </h3> |
-        <button>
+        <button style="border-radius: 5px">
             <a href="{{ page.url }}"
-                style="text-decoration: none;
-                cursor: none;">
+                style="text-decoration: none;">
                 Ver más
             </a>
         </button>
