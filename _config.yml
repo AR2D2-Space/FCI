@@ -3,7 +3,7 @@ email: androide20.7@tutanota.com
 description: >-
   Postulación FCI
 baseurl: "" 
-url: "localhost:4000" 
+url: "https://ar2d2-space.github.io/FCI/" 
 twitter_username: "---"
 github_username:  AR2D2-Space
 
@@ -15,7 +15,7 @@ plugins:
 collections:
   votaciones:
     output: true
-    permalink: /votaciones/:path/
+    permalink: /:collection/:path/index.html
 
 
 # Exclude from processing.
