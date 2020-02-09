@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /votaciones
+permalink: /
 ---
 
 <h1>Latinoamérica 2020
