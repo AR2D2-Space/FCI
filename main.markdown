@@ -13,7 +13,7 @@ permalink: /
             {{ page.name }}
         </h3> |
         <button style="border-radius: 5px">
-            <a href="{{ site.baseurl }}"
+            <a href="{{ site.baseurl }}/{{ page.name }}"
                 style="text-decoration: none;">
                 Ver más
             </a>
