@@ -13,7 +13,7 @@ permalink: /
             {{ page.name }}
         </h3> |
         <button style="border-radius: 5px">
-            <a href="FCI/{{ page.url }}"
+            <a href="{{ page.url }}"
                 style="text-decoration: none;">
                 Ver más
             </a>
