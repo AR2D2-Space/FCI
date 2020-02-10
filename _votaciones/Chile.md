@@ -26,7 +26,7 @@ name: "Chile"
     color: white;
     padding: 10 50px;
     margin: 5px">
-    En medio de las protestas antigubernamentales, una de las peticiones de los manifestantes es la redacción de una nueva Carta Magna, puesto que la que rige en el país data de la dictadura de Augusto Pinochet.
+    Chile, en medio de las protestas antigubernamentales, una de las peticiones de los manifestantes es la redacción de una nueva Carta Magna, puesto que la que rige en el país data de la dictadura de Augusto Pinochet.
     Ante ello, el Congreso aprobó una ley que convoca a un proceso de reforma constitucional.
 </p>
 <p style="

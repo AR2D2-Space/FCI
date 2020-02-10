@@ -17,7 +17,6 @@ permalink: /
                 style="text-decoration: none;">
                 Ver más
             </a>
-            ----{{ site.baseurl }}----
         </button>
     </div>
     {% endfor %}
